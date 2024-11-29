@@ -1,1 +1,1 @@
-# bloom-filter
+# bloom-filter implementation in C 
